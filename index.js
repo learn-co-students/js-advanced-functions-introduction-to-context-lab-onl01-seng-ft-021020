@@ -26,3 +26,4 @@ function createDSObj(getType, dateStamp) {
 function createTimeOutEvent(employee, dateStamp){
     employee.timeOutEvents.push(createDSObj("TimeOut", dateStamp))
     return employee
+}
