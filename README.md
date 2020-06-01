@@ -15,7 +15,7 @@ working with execution context. We're going to start this sequence of lessons
 off by defining five key terms. Each will be addressed in depth elsewhere, but
 we want to give you a survey first so you can say "Oh, this is important" when
 you see the terms.
-
+   
 **Definitions**
 
 1. Execution Context: When JavaScript functions run, they have an associated
